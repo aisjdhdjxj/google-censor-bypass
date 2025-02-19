@@ -9,7 +9,7 @@ def add_dots(word):
     return dotted_word
 
 # Get user input
-input_word = input("Enter a word: ")
+input_word = input("nigger: ")
 
 # Output the word with dots
 output_word = add_dots(input_word)
